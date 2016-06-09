@@ -13,7 +13,7 @@ In order to construct the networks in this study, I used the following methods:
 
 1. compute correlation coefficient of all pairs of variables,
 
-2. contruct network from step 1, and
+2. construct network from step 1, and
 
 3. detect communities from step 2.
 
